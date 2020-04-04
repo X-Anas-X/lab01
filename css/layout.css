@@ -1,0 +1,76 @@
+@media (min-width: 768px) {
+    body {
+        box-sizing: border-box;
+        width: 960px;
+    
+    }
+    div {
+        border: 1px solid gray;
+        background-color: orangered;
+    }
+    .a {
+    text-align: center;
+    height: 100px;
+    width: 958px;
+    margin-top: 30px;
+    line-height: 100px;
+    }
+    .b {
+        text-align: center;
+        height: 600px;
+        width: 197px;
+        line-height: 600px;
+        float: left;
+    }
+    .c {
+        text-align: center;
+        height: 200px;
+        width: 378px;
+        line-height: 200px;
+        float: left;
+    }
+    .d {
+        text-align: center;
+        height: 200px;
+        width: 379px;
+        line-height: 200px;
+        float: left;
+    }
+    .e {
+        text-align: center;
+        height: 250px;
+        width: 188px;
+        line-height: 250px;
+        float: left;
+       
+    }
+    .f {
+        text-align: center;
+        height: 250px;
+        width: 189px;
+        line-height: 250px;
+        float: left;
+    }
+    .g {
+        text-align: center;
+        height: 250px;
+        width: 188px;
+        line-height: 250px;
+        float: left;
+    }
+    .h {
+        text-align: center;
+        height: 250px;
+        width: 188px;
+        line-height: 250px;
+        float: left;
+    }
+    .i {
+        text-align: center;
+        height: 146px;
+        width: 759px;
+        line-height: 150px;
+        float: left;
+    }
+
+}
