@@ -1,0 +1,73 @@
+body {
+    box-sizing: border-box;
+    width: 480px;
+    margin: auto;
+
+}
+div {
+    border: 1px solid gray;
+    background-color: aqua;
+    
+}
+.a {
+    text-align: center;
+    height: 75px;
+    width: 478px;
+    margin-top: 30px;
+    line-height: 75px;
+}
+.b {
+    text-align: center;
+    height: 150px;
+    width: 478px;
+    line-height: 150px;
+   
+}
+.c {
+    text-align: center;
+    height: 125px;
+    width: 478px;
+    line-height: 125px;
+}
+.d {
+    text-align: center;
+    height: 125px;
+    width: 478px;
+    line-height: 130px;
+}
+.e {
+    float: left;
+    text-align: center;
+    height: 250px;
+    width: 238px;
+    line-height: 238px;
+}
+.f {
+    float: right;
+    text-align: center;
+    height: 250px;
+    width: 238px;
+    line-height: 238px;
+}
+.g {
+    float: right;
+    text-align: center;
+    height: 250px;
+    width: 238px;
+    line-height: 238px;
+}
+.h {
+    float: right;
+    text-align: center;
+    height: 250px;
+    width: 238px;
+    line-height: 238px;
+}
+.i {
+    float: right;
+    text-align: center;
+    height: 80px;
+    width: 478px;
+    line-height: 80px;
+    margin-bottom: 30px;
+}
